@@ -30,9 +30,7 @@ You can [download SSTableViewCell from here](https://github.com/shingwasix/SSTab
 
 [CocosPods](http://cocosPods.org) is the recommended methods of installation SSTableViewCell, just add the following line to `Profile`:
 
-```
-pod 'SSTableViewCell', :git=>"https://github.com/shingwasix/SSTableViewCell.git"
-```
+> `pod 'SSTableViewCell'`
 
 # License
 
