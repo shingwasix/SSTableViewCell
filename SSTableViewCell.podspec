@@ -5,10 +5,10 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/shingwasix/SSTableViewCell"
   s.screenshots  = "https://raw.githubusercontent.com/shingwasix/SSTableViewCell/master/screenshoot.jpg"
   s.license      = "MIT"
-  s.author       = { "Shingwa Six" => "shingwasix@gmail.com" }
+  s.author       = { "Shingwa Six" => "http://blog.waaile.com" }
   s.platform     = :ios, "5.0"
   s.source       = { :git => "https://github.com/shingwasix/SSTableViewCell.git", :tag => "#{s.version}" }
-  s.source_files  = "SSTableViewCell.{h,m}"
+  s.source_files  = "*.{h,m}"
   s.frameworks = "Foundation", "CoreGraphics", "UIKit"
   s.requires_arc = true
 end
